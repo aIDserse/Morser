@@ -1,4 +1,4 @@
-# SuSift! A Swift Calculator
+# Morser! A Swift Morse coder and decoder!
 A Swift Text to Morse and Morse to Text converter!<br>
 # License
 The code is under WTFPL license. It's nearly like GPL, but better:))
